@@ -1,6 +1,8 @@
 # Ефим Романенко #
 
-## Full Stack Web Разработчик на MERN ##
+### Full Stack Web Разработчик на MERN ###
+
+<br/>
 
 ***
 
