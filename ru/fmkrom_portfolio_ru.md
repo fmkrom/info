@@ -1,16 +1,17 @@
 # ПРОЕКТЫ #
-## Full Stack разработчика ##
-## Ефима Романенко ##  
+### Full Stack разработчика Ефима Романенко ###
 
 <br/>
+
 ***
-### Проект "Movies Explorer" ##
+
+## Проект "Movies Explorer" ##
 
 **Тип**: Информационный сайт
 
 **Технологии**: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB
 
-#### Код проекта на Github ####:
+### Код проекта на Github ###:
 
 **Frontend**: https://github.com/fmkrom/movies-explorer-frontend
 
